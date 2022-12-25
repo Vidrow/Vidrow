@@ -1,5 +1,4 @@
 ### Hey there 👋 , Hamza Ansari
-www.frenion.me
 
 <!--
 **Vidrow/Vidrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
