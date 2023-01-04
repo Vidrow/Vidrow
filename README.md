@@ -1,6 +1,6 @@
 ### Hey there 👋 , Hamza Ansari
-#Now that you're here, be sure to check out my website - www.frenion.me
-#peace!
+<h2>Now that you're here, be sure to check out my website : www.frenion.me</h2>
+<p>Peace😄</p>
 
 <!--
 **Vidrow/Vidrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
