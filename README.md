@@ -13,7 +13,7 @@ Hi there! My name is Hamza Ansari and I'm an electronics engineer. I enjoy devel
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### Extremely Important Lesson!
-<img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bed9c10a58c67d5e458_g3aUbBRKfdR_6OG1TCTnUbr6646sydM67yBSoKQY1bK3gi4o6eUUkFqUrWc6Sg-ycGJ1zUn3SWhgSfh_A1-F10cvgmKPFM2cae0Vgt500TDqVezLt_-l6fQQYKHda_-kp-0OgW6A.png" width="512px"/>
+
+<img src="https://www.brandsynario.com/wp-content/uploads/Funny-Get-your-EID-hug.jpg" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
