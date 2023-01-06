@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Hamza Ansari and I'm an electronics engineer. In my free time, I enjoy developing new projects and playing with data. I'm also interested in web development and data science, and I'm always looking for ways to improve my skills and become a better engineer. When I'm not working or tinkering with new technologies, I enjoy spending time outdoors and staying active. Thanks for stopping by my page!
+Hi there! My name is Hamza Ansari and I'm an electronics engineer. I enjoy developing new projects and playing with data. I'm also interested in web development and data science, and I'm always looking for ways to improve my skills and become a better engineer. When I'm not working or tinkering with new technologies, I enjoy spending time outdoors and staying active. Thanks for stopping by my page!
 
 
 ## 🌐 Socials:
